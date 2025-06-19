@@ -1,0 +1,15 @@
+body {
+  width: 220px;
+  padding: 10px;
+  font-family: 'Segoe UI', sans-serif;
+}
+button {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #00897b;
+  color: white;
+  font-weight: bold;
+}
